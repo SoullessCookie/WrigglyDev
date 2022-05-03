@@ -1,0 +1,14 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: WrigglySplash
+  label: Dev
+poweredByRetype: false # Set to false to remove the Powered by Retype branding.
+                      # A Retype Pro license is required.
+                      # See: https://retype.com/pro
+links:
+  - text: 
+    link: 
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
